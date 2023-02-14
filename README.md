@@ -1,1 +1,2 @@
-My First Python Project 
+Written By: Kara Balsom
+Date Written: 
